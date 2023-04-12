@@ -56,7 +56,7 @@ a {
     text-decoration: none;
 }
 
-#selected:hover {
+.selected :hover {
     color: blue;
 }
 
