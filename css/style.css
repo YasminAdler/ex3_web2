@@ -57,7 +57,7 @@ a {
 }
 
 #selected:hover {
-    color: red;
+    color: blue;
 }
 
 #rectHeader {
