@@ -200,12 +200,88 @@ a {
 
 .rect6 {
     position: absolute;
-    height: 26px;
-    width: 25px;
-    margin-left: 32px;
-    margin-top: 673px;
+    height: 352px;
+    width: 246px;
+    margin-left: 149px;
+    margin-top: 135px;
     background: #EBEF18;
 }
+
+.rect7 {
+    position: absolute;
+    width: 123px;
+    height: 212px;
+    margin-left: 149px;
+    margin-top: 503px;
+    background: #EBEF18;
+}
+
+.rect8 {
+    position: absolute;
+    height: 105px;
+    width: 55px;
+    margin-left: 356px;
+    margin-top: 503px;
+    background: #EBEF18;
+}
+
+.rect9 {
+    position: absolute;
+    height: 105px;
+    width: 55px;
+    margin-left: 286px;
+    margin-top: 503px;
+    background: #EBEF18;
+}
+
+
+.rect10 {
+    position: absolute;
+    height: 105px;
+    width: 55px;
+    margin-left: 382px;
+    margin-top: 503px;
+    background: #EBEF18;
+} 
+
+ 
+.rect11 {
+    position: absolute;
+    height: 58px;
+    width: 110px;
+    margin-left: 286px;
+    margin-top: 615px;
+    background: #EBEF18;
+}
+
+.rect12 {
+    position: absolute;
+    height: 55px;
+    width: 28px;
+    margin-left: 479px;
+    margin-top: 91px;
+    background: #EBEF18;
+}
+
+.rect13 {
+    position: absolute;
+    height: 55px;
+    width: 28px;
+    margin-left: 479px;
+    margin-top: 223px;
+    background: #EBEF18;
+}
+
+.rect14 {
+    position: absolute;
+    height: 198px;
+    width: 28px;
+    margin-left: 479px;
+    margin-top: 289px;
+    background: #EBEF18;
+}
+
+
 
 #rec1 {
     position: absolute;
