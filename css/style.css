@@ -258,8 +258,16 @@ a {
     position: absolute;
     height: 55px;
     width: 28px;
-    margin-left: 479px;
+    margin-left: 409px;
     margin-top: 91px;
+    background: #EBEF18;
+}
+.rect12 {
+    position: absolute;
+    height: 55px;
+    width: 28px;
+    margin-left: 409px;
+    margin-top: 157px;
     background: #EBEF18;
 }
 
@@ -267,7 +275,7 @@ a {
     position: absolute;
     height: 55px;
     width: 28px;
-    margin-left: 479px;
+    margin-left: 409px;
     margin-top: 223px;
     background: #EBEF18;
 }
@@ -276,7 +284,7 @@ a {
     position: absolute;
     height: 198px;
     width: 28px;
-    margin-left: 479px;
+    margin-left: 409px;
     margin-top: 289px;
     background: #EBEF18;
 }
