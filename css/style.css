@@ -553,6 +553,12 @@ aside li {
     color: #000000;
 }
 
+.sqr{
+    width: 80px;
+    height: 80px;
+    color: #000000;
+}
+
 /* 
 .menu_mob {
     position: relative;
